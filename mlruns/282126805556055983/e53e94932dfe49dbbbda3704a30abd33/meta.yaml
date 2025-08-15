@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/bharathkumarreddygorla/Desktop/dsproject/mlruns/282126805556055983/e53e94932dfe49dbbbda3704a30abd33/artifacts
+end_time: 1755261310591
+entry_point_name: ''
+experiment_id: '282126805556055983'
+lifecycle_stage: active
+run_id: e53e94932dfe49dbbbda3704a30abd33
+run_name: suave-lark-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755261308932
+status: 3
+tags: []
+user_id: bharathkumarreddygorla

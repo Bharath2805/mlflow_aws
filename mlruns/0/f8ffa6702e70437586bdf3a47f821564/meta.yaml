@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/bharathkumarreddygorla/Desktop/dsproject/mlruns/0/f8ffa6702e70437586bdf3a47f821564/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8ffa6702e70437586bdf3a47f821564
+run_name: victorious-rat-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755260640531
+status: 1
+tags: []
+user_id: bharathkumarreddygorla

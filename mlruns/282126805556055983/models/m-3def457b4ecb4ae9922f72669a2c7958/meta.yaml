@@ -1,0 +1,10 @@
+artifact_location: file:///Users/bharathkumarreddygorla/Desktop/dsproject/mlruns/282126805556055983/models/m-3def457b4ecb4ae9922f72669a2c7958/artifacts
+creation_timestamp: 1755261308946
+experiment_id: '282126805556055983'
+last_updated_timestamp: 1755261310588
+model_id: m-3def457b4ecb4ae9922f72669a2c7958
+model_type: null
+name: model
+source_run_id: e53e94932dfe49dbbbda3704a30abd33
+status: 2
+status_message: null
